@@ -1,2 +1,2 @@
-def AddTwoNumbers(x, y):
-    return x + y
+def AddTwoNumbers(x, y, z):
+    return x + y == z
