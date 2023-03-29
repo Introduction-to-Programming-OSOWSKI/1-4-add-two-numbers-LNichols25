@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def AddTwoNumbers(x, y):
+    return x + y
